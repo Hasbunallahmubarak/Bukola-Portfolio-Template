@@ -1,0 +1,9 @@
+@media screen and (max-width: 800px){
+	#about > div, #contact > div{width: 95%;}
+}
+@media screen and (max-width: 600px){
+	#images img{width: 100%;}
+	#modal img{width: 90%;}
+	.info div{width: 100%;}.charge{width: 99%;}
+	.much{margin-left: 0px;}.info .post{margin: 10px 0px;}
+}
